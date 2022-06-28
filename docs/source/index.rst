@@ -1,19 +1,25 @@
 AMesh3D文档中心
 ===================================
 
-这是第一次的文档
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**AMesh3D** 是一个主要面向网格模型处理的三维软件，这款软件针对增材制造行业开发（也称3D打印），也适用于有三维网格模型处理需求的其他行业。
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+这款软件是免费的，1.0版本已具有其他商业软件的部分网格处理功能，主要如下：
+STL\PLY\OBJ主流网格模型格式的读取
+几何水密性检测
+计算尺寸、面积和体积
+零件拆分和合并
+零件缩放
+自动排列
+
+同时也具有如下特点：
+快速报价列表并导出Excel档案
+
+
 
 .. note::
 
-   This project is under active development.
+   1.0版本将于7月10日正式上线
 
 Contents
 --------
