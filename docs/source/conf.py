@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'AMesh3D'
+copyright = '2022, AMesh3D'
+author = 'Leo Xiao'
 
 release = '0.1'
 version = '0.1.0'
