@@ -20,5 +20,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   主窗口
+   放大
