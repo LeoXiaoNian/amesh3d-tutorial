@@ -1,7 +1,7 @@
-欢迎来到AMesh3D文档中心
+AMesh3D文档中心
 ===================================
 
-Lumache has its documentation hosted on Read the Docs.
+这是第一次的文档
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
