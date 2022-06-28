@@ -18,8 +18,9 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-.. toctree::
-   :maxdepth: 2
-   :caption: 下载:
+ .. toctree::
+    :maxdepth: 2
+    :caption: Contents:
 
-   about
+    用户手册/index
+    about
