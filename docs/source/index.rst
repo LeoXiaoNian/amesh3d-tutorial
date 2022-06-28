@@ -19,6 +19,7 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: 下载:
 
-   主窗口
-   放大
+   about
