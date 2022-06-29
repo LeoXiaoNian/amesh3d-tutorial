@@ -17,12 +17,16 @@ AMesh3D文档中心
 .. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/01.png
    :width: 100%
    :align: center
+   :alt: 显示尺寸
 
+   显示尺寸
 
 .. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/03.png
    :width: 100%
    :align: center
+   :alt: 几何水密性检查
 
+   几何水密性检查
 
 
 同时针对加工服务行业，开发如下特色功能：
