@@ -6,27 +6,31 @@ AMesh3D文档中心
 
 这款软件是免费的，1.0版本已具有其他商业软件的部分网格处理功能，主要如下：
 
-STL\PLY\OBJ主流网格模型格式的读取
-几何水密性检测
-计算尺寸、面积和体积
-零件拆分和合并
-零件缩放
-自动排列
+* STL、PLY和OBJ主流网格模型格式的读取
+* 几何水密性检测
+* 计算尺寸、面积和体积
+* 零件拆分和合并
+* 零件缩放
+* 自动排列
 
 同时针对加工服务行业，开发如下特色功能：
-快速报价列表并导出Excel档案
+
+* 按零件批量导出截图
+* 快速报价列表并导出Excel档案
 
 
 
 .. note::
 
-   1.0版本将于7月10日正式上线
+   欢迎加入技术交流QQ群：124286739
 
-Contents
---------
+目录:
+^^^^^
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
+    :glob:
 
-   usage/installation
-   usage/quickstart
+    downloading/index
+    usermanual/index
+
