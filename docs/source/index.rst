@@ -13,9 +13,11 @@ AMesh3D文档中心
 * 零件缩放
 * 自动排列
 
+
 .. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/01.png
-   :width: 80%
+   :width: 100%
    :align: center
+
 
 
 同时针对加工服务行业，开发如下特色功能：
