@@ -2,7 +2,7 @@
 ==========
 
 这一部分主要介绍软件的具体功能;\
-包含数据科学的基础工具，如：Jupyter、Linux，以及 Python 基本的数据科学包 Numpy，画图包 Matplotlib;
+包含三维网格模型的基本操作以及针对加工服务行业的特色功能;
 
 
 .. toctree::
@@ -10,4 +10,11 @@
     :numbered: 2
 
     autoplacement
+    showsize
+    color
     selection
+    split
+    merge
+    scaling
+    exportpic
+
