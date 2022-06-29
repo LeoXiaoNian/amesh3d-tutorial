@@ -38,6 +38,9 @@ AMesh3D文档中心
 .. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/11.png
    :width: 100%
    :align: center
+   :alt: 一键导出截图和Excel报价表
+
+   一键导出截图和Excel报价表
 
 
 .. note::
