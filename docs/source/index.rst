@@ -35,7 +35,7 @@ AMesh3D文档中心
 * 快速报价列表并导出Excel档案
 
 
-.. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/11.png
+.. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/20.png
    :width: 100%
    :align: center
    :alt: 一键导出截图和Excel报价表
