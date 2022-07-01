@@ -7,6 +7,6 @@
 .. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/07.png
    :width: 100%
    :align: center
-   :alt: 间距30mm
+   :alt: 包围盒尺寸
 
    包围盒尺寸
