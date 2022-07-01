@@ -9,7 +9,7 @@
    :align: center
    :alt: 间距30mm
 
-   间距30
+   间距30mm
 
 .. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/05.png
    :width: 100%
