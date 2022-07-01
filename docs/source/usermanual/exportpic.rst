@@ -17,7 +17,7 @@
 2、点击 :guilabel:`打开目录` 按钮
 
 .. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/18.png
-   :width: 100%
+   :width: 60%
    :align: center
    :alt: 打开目录
 
