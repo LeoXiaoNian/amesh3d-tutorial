@@ -1,7 +1,7 @@
 下载
 ==========
 
-Windows(64位)
+AMesh3D V1.0 for Windows(64位)
 
       支持操作系统版本Windows 10 和 Windows 11
 
