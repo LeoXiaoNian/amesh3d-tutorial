@@ -6,8 +6,8 @@ project = 'AMesh3D'
 copyright = '2022, AMesh3D'
 author = 'Leo Xiao'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '1.0.0'
 
 # -- General configuration
 
