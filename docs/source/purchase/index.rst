@@ -11,5 +11,4 @@
 
 
 
-      * `点击此链接下载 <https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/AMesh3D.exe>`_
 
