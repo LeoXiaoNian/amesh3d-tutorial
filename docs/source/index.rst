@@ -56,4 +56,5 @@ AMesh3D文档中心
 
     downloading/index
     usermanual/index
+    purchase/index
 
