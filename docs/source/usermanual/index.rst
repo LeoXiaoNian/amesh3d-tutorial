@@ -11,6 +11,7 @@
     autoplacement
     showsize
     color
+    vertexcolor
     selection
     split
     merge
