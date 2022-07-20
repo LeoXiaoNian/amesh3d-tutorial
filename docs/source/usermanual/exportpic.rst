@@ -38,7 +38,7 @@
 
    报价单和图片目录
 
-5、生成的报价单中包含产品图片、零件名称、长宽高、包围盒体积（CNC用户可用于计算材料成本）、实体体积、面积、重量（根据用户在“报价列表”中设置的密度）
+4、生成的报价单中包含产品图片、零件名称、长宽高、包围盒体积（CNC用户可用于计算材料成本）、实体体积、面积、重量（根据用户在“报价列表”中设置的密度）
 
 .. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/20.png
    :width: 100%
@@ -48,7 +48,7 @@
    报价单明细
 
 
-* 在V1.1版本中，增加了导出选择，可以自定义零件在图片中的颜色、边线和图片分辨率。
+5、 在V1.1版本中，增加了导出选择，可以自定义零件在图片中的颜色、边线和图片分辨率。
 
 .. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/23.png
    :width: 100%
@@ -71,7 +71,7 @@
 
    包含边线导出
 
-.. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/25.png
+.. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/26.png
    :width: 100%
    :align: center
    :alt: 不含边线导出
