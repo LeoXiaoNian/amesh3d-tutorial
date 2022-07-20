@@ -8,6 +8,7 @@ AMesh3D V1.1 for Windows(64位)
       * `点击此链接下载 <https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/AMesh3D.exe>`_
 
 更新日志：
+~~~~~~~~
 
 V1.1，发布日期2022年7月20日
 
