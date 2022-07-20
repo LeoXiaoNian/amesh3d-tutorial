@@ -14,7 +14,9 @@ V1.1，发布日期2022年7月20日
 * 优化了UI显示
 * 优化了部分低版本操作系统的兼容性
 * 修正了机器码在windows11下会动态变化的bug
-* 增加了顶点颜色显示新功能
-* 增加了导出选择，可以自定义零件在图片中的颜色、边线和图片分辨率
+* 增加了顶点颜色显示新功能 `详情查看 <https://www.amesh3d.com/zh_CN/1.0.x/usermanual/vertexcolor.html>`_
+* 增加了导出选择，可以自定义零件在图片中的颜色、边线和图片分辨率 `详情查看 <https://www.amesh3d.com/zh_CN/1.0.x/usermanual/exportpic.html>`_
+
+
 
 
