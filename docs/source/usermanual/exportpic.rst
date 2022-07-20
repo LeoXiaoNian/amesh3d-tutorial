@@ -48,4 +48,23 @@
    报价单明细
 
 
+* 在V1.1版本中，增加了导出选择，可以自定义零件在图片中的颜色、边线和图片分辨率。
+
+.. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/23.png
+   :width: 100%
+   :align: center
+   :alt: 导出选项窗口
+
+   导出选项窗口
+
+.. figure:: https://amesh3d-doc.oss-cn-shenzhen.aliyuncs.com/24.png
+   :width: 100%
+   :align: center
+   :alt: 随机彩色导出
+
+   随机彩色导出
+
+
+
+
 
